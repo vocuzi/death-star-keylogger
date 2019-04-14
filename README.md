@@ -10,3 +10,5 @@ Death Star is a keylogger implemented as Chrome Extension. It logs everything th
 
 ### Disclaimer
 Your use of any information or materials on this repository is entirely at your own risk, for which I do not take any liability. Be responsible and ethical!
+
+![Alt Text](https://media.giphy.com/media/3ornjPaUwr60cYjXuE/giphy.gif)
